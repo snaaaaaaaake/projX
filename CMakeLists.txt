@@ -1,4 +1,4 @@
-cmake_minimum_requiredn(VERSION 3.17)
+cmake_minimum_required(VERSION 3.17)
 
 project(projX)
 
